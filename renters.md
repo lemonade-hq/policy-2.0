@@ -131,7 +131,7 @@ We provide additional coverage against earthquakes that damage your stuff. [Add 
 
 ### Add Water Backup Package
 
-It turns out sewage systems sometimes get disoriented and backup into your apartment (yuck). We provide coverage for this unfortunate situation as well. [Add water backup coverage](# "In the real doc, this will open our Live Policy editor").
+It turns out sewage systems sometimes get disoriented and back up into your apartment (yuck). We provide coverage for this unfortunate situation as well. [Add water backup coverage](# "In the real doc, this will open our Live Policy editor").
 
 ### And more...
 
