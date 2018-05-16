@@ -109,7 +109,7 @@ Damage caused by drones, other flying machines or motorized vehicles of any kind
 
 We cover fire damage to your apartment, but other damage to the unit you rent (like scratched floors) isn’t covered. That’s what the security deposit is for.
 
-We don’t cover damage caused by assault weapons (as defined by the Federal Assault Weapons Ban of 1994). Harm caused by other licensed firearms is covered, as long as they were [stored securely and used responsibly](https://oag.ca.gov/firearms/tips).
+We don’t cover damage caused by assault weapons (as defined by the Federal Assault Weapons Ban of 1994). Harm caused by other lawfully owned firearms is covered, as long as they were [stored securely and used responsibly](https://oag.ca.gov/firearms/tips).
 
 Damage that’s related, or similar to, something you’ve been accused of in the past ten years (e.g. your dog has bitten before) isn’t covered.
 
