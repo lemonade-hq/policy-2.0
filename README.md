@@ -6,7 +6,7 @@
 
 Insurance policies are the ultimate word salad, which is why we’ve created the world’s first open source insurance policy. We’re calling it Policy 2.0.
 
-**Policy 2.0** is a radically simplified, modernized, and digitized insurance policy. It’s open source, so we’d love for everyone to contribute to and benefit from it. Feel free to submit a PR!
+**Policy 2.0** is a radically simplified, modernized, and digitized insurance policy. It’s open source, so we’d love for everyone to contribute to and benefit from it. Feel free to submit a pull request.
 
 We're taking a run at creating 'Policy 2.0,' with 4 overarching goals: Make a policy that's simple, approachable, relevant, and digital.
 
