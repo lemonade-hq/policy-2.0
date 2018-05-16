@@ -135,7 +135,7 @@ It turns out sewage systems sometimes get disoriented and backup into your apart
 
 ### And more...
 
-Click <a>here</a> for a complete list of additional coverages on offer, and to be notified when more become available.
+<a>See a complete list of additional coverages on offer</a>, and sign up for notifications when more become available.
 
 
 ## Your participation if something bad happens
