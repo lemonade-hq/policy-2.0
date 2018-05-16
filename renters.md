@@ -72,7 +72,7 @@ We cover stuff you own and have in your possession. If you willingly handed your
 
 We don’t cover stuff that’s usually covered by other types of insurance policies such as auto, travel, pet, or business. So damage to your car, injuries to your pet, or damage to stuff used for business such as your work laptop, professional camera gear, and so on, aren’t covered. You can add coverage for some of these [here](# "In the real doc, this will open our Live Policy editor").
 
-Assault weapons (as defined by the Federal Assault Weapons Ban of 1994) are not covered. Other licensed firearms are covered, as long as they are [stored securely and used responsibly](https://oag.ca.gov/firearms/tips).
+Assault weapons (as defined by the Federal Assault Weapons Ban of 1994) are not covered. Other lawfully owned firearms are covered, as long as they are [stored securely and used responsibly](https://oag.ca.gov/firearms/tips).
 
 We do not cover intentional damage by you, nor losses that could have been foreseen or prevented by you through reasonable steps. So if damage like this has happened before and you haven’t fixed the problem fully, that’s on you.
 
