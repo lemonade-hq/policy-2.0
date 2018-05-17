@@ -11,7 +11,7 @@ Copyright Lemonade Inc. 2018\. Copyleft, GNU Free Documentation License
 
 ## The Squeezed Version
 
-Congratulations! You got yourself a Lemonade Renters Insurance Policy for your home at **5 Crosby St., New York 10013, NY**. Your policy number is **LP234F32**.
+Congratulations! You got yourself a Lemonade Renters Insurance Policy for your home at **5 Crosby St., New York, NY 10013**. Your policy number is **LP234F32**.
 
 We want to make sure you know what you’re getting for your **$5.20 per month**, so we did our best to make this policy short and sweet.
 
