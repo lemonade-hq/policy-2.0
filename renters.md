@@ -62,7 +62,7 @@ We will pay you the cost to repair or replace an item with one of the same make 
 
 This policy covers your stuff, up to a limit of $10,000 per year, for damages caused by fire or smoke, theft or vandalism, burst pipes or appliance leaks. Everything else, such as “I lost it,” “my dog ate it,” “my kid dropped it,” “my power went out,” “my computer died,” “my roof is leaking,” “I overfilled my bathtub,” or “I had a wardrobe malfunction,” aren’t covered. You can add coverage for some of these [here](# "In the real doc, this will open our Live Policy editor").
 
-Items worth up to $2,500 are covered automatically, but won’t pay more per item unless they’ve been [added individually](# "In the real doc, this will open our Live Policy editor"). So please let us know if you have jewelry, cameras, or other valuables worth more than $2,500 each, so we can cover them fully.
+Items worth up to $2,500 are covered automatically, but we won’t pay more per item unless they’ve been [added individually](# "In the real doc, this will open our Live Policy editor"). So please let us know if you have jewelry, cameras, or other valuables worth more than $2,500 each, so we can cover them fully.
 
 We cover your physical stuff, but things like your health, reputation, identity, data, lost wages, privacy, credit rating, and financial instruments (including cash, cryptocurrency, and stocks) are not covered.
 
