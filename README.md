@@ -13,7 +13,7 @@ We're taking a run at creating 'Policy 2.0,' with 4 overarching goals: Make a po
 **Simple:** Traditional insurance policies are filled with exceptions. Exceptions make actuaries happy, but their costs, in complexity and transparency, are just too high. Zero exceptions may be unrealistic, because the price of such a policy would be unattractive, but the goal must be a radical reduction in exceptions, and ensuring they're easy to understand and remember.
 
 
-**Approachable:** There are good reasons why policies use lingo that requires a law degree and a broker's license to understand, but Policy 2.0 is about using contemporary English that the everyone understands.
+**Approachable:** There are good reasons why policies use lingo that requires a law degree and a broker's license to understand, but Policy 2.0 is about using contemporary English that everyone understands.
 And the policy has to be way shorter. No document is 'readable' if it's so long that no one actually reads it.
 
 

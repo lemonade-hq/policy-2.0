@@ -11,7 +11,7 @@ Copyright Lemonade Inc. 2018\. Copyleft, GNU Free Documentation License
 
 ## The Squeezed Version
 
-Congratulations! You got yourself a Lemonade Renters Insurance Policy for your home at **5 Crosby St., New York 10013, NY**. Your policy number is **LP234F32**.
+Congratulations! You got yourself a Lemonade Renters Insurance Policy for your home at **5 Crosby St., New York, NY 10013**. Your policy number is **LP234F32**.
 
 We want to make sure you know what you’re getting for your **$5.20 per month**, so we did our best to make this policy short and sweet.
 
@@ -62,7 +62,7 @@ We will pay you the cost to repair or replace an item with one of the same make 
 
 This policy covers your stuff, up to a limit of $10,000 per year, for damages caused by fire or smoke, theft or vandalism, burst pipes or appliance leaks. Everything else, such as “I lost it,” “my dog ate it,” “my kid dropped it,” “my power went out,” “my computer died,” “my roof is leaking,” “I overfilled my bathtub,” or “I had a wardrobe malfunction,” aren’t covered. You can add coverage for some of these [here](# "In the real doc, this will open our Live Policy editor").
 
-Items worth up to $2,500 are covered automatically, but won’t pay more per item unless they’ve been [added individually](# "In the real doc, this will open our Live Policy editor"). So please let us know if you have jewelry, cameras, or other valuables worth more than $2,500 each, so we can cover them fully.
+Items worth up to $2,500 are covered automatically, but we won’t pay more per item unless they’ve been [added individually](# "In the real doc, this will open our Live Policy editor"). So please let us know if you have jewelry, cameras, or other valuables worth more than $2,500 each, so we can cover them fully.
 
 We cover your physical stuff, but things like your health, reputation, identity, data, lost wages, privacy, credit rating, and financial instruments (including cash, cryptocurrency, and stocks) are not covered.
 
@@ -119,7 +119,7 @@ We don’t cover damage caused intentionally, or as a result of illegal activity
 
 ### Add Bad Weather Package
 
-You can add coverage for damages caused by hail, snow, wind, and heavy rains. <a>Add our bad weather coverage</a>
+You can add coverage for damages caused by hail, snow, wind, and heavy rains. [Add our bad weather coverage](# "In the real doc, this will open our Live Policy editor").
 
 ### Add Electronic Devices Package
 
@@ -131,12 +131,11 @@ We provide additional coverage against earthquakes that damage your stuff. [Add 
 
 ### Add Water Backup Package
 
-It turns out sewage systems sometimes get disoriented and backup into your apartment (yuck). We provide coverage for this unfortunate situation as well. [Add water backup coverage](# "In the real doc, this will open our Live Policy editor").
+It turns out sewage systems sometimes get disoriented and back up into your apartment (yuck). We provide coverage for this unfortunate situation as well. [Add water backup coverage](# "In the real doc, this will open our Live Policy editor").
 
 ### And more...
 
 <a>See a complete list of additional coverages on offer</a>, and sign up for notifications when more become available.
-
 
 ## Your participation if something bad happens
 
