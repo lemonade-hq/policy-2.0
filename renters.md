@@ -135,8 +135,7 @@ It turns out sewage systems sometimes get disoriented and back up into your apar
 
 ### And more...
 
-Click [here](# "In the real doc, this will open our Live Policy editor") for a complete list of additional coverages on offer, and to be notified when more become available.
-
+<a>See a complete list of additional coverages on offer</a>, and sign up for notifications when more become available.
 
 ## Your participation if something bad happens
 
