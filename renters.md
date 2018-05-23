@@ -31,7 +31,7 @@ We protect you against theft, vandalism, fire, smoke, burst pipes, appliance lea
 
 ### For how much?
 
-We provide coverage up to a certain limit. Here is a quick overview of the limits you chose (and can [change] (# "in the real doc, this will open our Live Policy editor"):
+We provide coverage up to a certain limit. Here is a quick overview of the limits you chose (and can [change](# "in the real doc, this will open our Live Policy editor")):
 
 *   Damage or theft of your stuff, up to $10,000 in total, and $2,500 per item.
 *   Temporary living expenses if your home becomes unlivable, up to $2,500.
