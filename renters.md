@@ -19,7 +19,7 @@ Please take a few minutes to read through, and [let us know](# "In the real doc,
 
 ### Who’s covered?
 
-This policy covers **Jane Doe**. You can add more people, as long as they permanently live at 5 Crosby St.
+This policy covers **Jane Doe**. You can add more people, as long as they permanently live at 5 Crosby St. Spouses and cohabitating significant others may be added for no additional charge, but you must specifically add them by name to you policy. Roommates and housemates may be covered for an additional fee.
 
 ### When?
 
