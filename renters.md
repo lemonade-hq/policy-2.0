@@ -23,7 +23,7 @@ This policy covers **Jane Doe**. You can add more people, as long as they perman
 
 ### When?
 
-This policy covers events that started after March 12, 2017 at 1:30pm, and before March 12, 2018, 1:30pm.
+This policy covers events that started after March 12, 2017 at 1:30pm EST, and before March 12, 2018, 1:30pm EST.
 
 ### Against what?
 
