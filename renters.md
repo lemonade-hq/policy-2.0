@@ -133,7 +133,7 @@ We provide additional coverage against earthquakes that damage your stuff. [Add 
 
 It turns out sewage systems sometimes get disoriented and back up into your apartment (yuck). We provide coverage for this unfortunate situation as well. [Add water backup coverage](# "In the real doc, this will open our Live Policy editor").
 
-### Add Non Owner Car Insurance
+### Add Non-Owner Automobile Package
 
 Have a driver’s license but no car? [Add non-owner automobile coverage](# "In the real doc, this will open our Live Policy editor") and we’ll cover damage or injury caused to you, others, your vehicle, or others’ vehicle(s) if you are involved in an accident while driving a rented or borrowed car.
 
