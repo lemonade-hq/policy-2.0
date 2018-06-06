@@ -66,7 +66,7 @@ Items worth up to $2,500 are covered automatically, but we won’t pay more per 
 
 We cover your physical stuff, but things like your health, reputation, identity, data, lost wages, privacy, credit rating, and financial instruments (including cash, cryptocurrency, and stocks) are not covered.
 
-We cover your stuff anywhere in the world, as long as it is normally kept at your home. Stuff that lives at your summer house, office, or in a storage unit, is not covered. You can add coverage for some of these [here](# "In the real doc, this will open our Live Policy editor").
+We cover your stuff anywhere in the world, as long as it is normally kept at your home. Stuff that lives at your summer house, office, parking spot or in a storage unit, is not covered. You can add coverage for some of these [here](# "In the real doc, this will open our Live Policy editor").
 
 We cover stuff you own and have in your possession. If you willingly handed your things to someone else, they’re responsible. So if your stuff was damaged during shipping, at the dry cleaners, while on loan to a friend, or never came off your flight to Hawaii - it’s not covered.
 
