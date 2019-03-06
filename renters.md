@@ -15,7 +15,7 @@ Congratulations! You got yourself a Lemonade Renters Insurance Policy for your h
 
 We want to make sure you know what you’re getting for your **$5.20 per month**, so we did our best to make this policy short and sweet.
 
-Please take a few minutes to read through, and [let us know](# "In the real doc, this will let you get in touch with us directly") if you have any questions. You can always [change coverages](# "In the real doc, this will open our Live Policy editor"), [add valuable items](# "In the real doc, this will open our Live Policy editor"), and more.
+Please take a few minutes to read through it, and [let us know](# "In the real doc, this will let you get in touch with us directly") if you have any questions. You can always [change coverages](# "In the real doc, this will open our Live Policy editor"), [add valuable items](# "In the real doc, this will open our Live Policy editor"), and more.
 
 ### Who’s covered?
 
@@ -218,7 +218,7 @@ Your state is a very special place, and it asked that we clarify the following..
 
 ### We’re so happy you made it to the end. Thanks!
 
-Hopefully this all made sense and you feel good about your coverage. Please [contact us](# "In the real doc, this will allow you to get in touch directly") if anything remains unclear, or if need more coverage than this agreement provides.
+Hopefully this all made sense and you feel good about your coverage. Please [contact us](# "In the real doc, this will allow you to get in touch directly") if anything remains unclear, or if you need more coverage than this agreement provides.
 
 We wish you a charmed year, but should you encounter any bumps along the way, we’ll do our best to smooth them out. After all, when life gives you lemons…
 
