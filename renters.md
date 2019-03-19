@@ -145,7 +145,7 @@ Have a driver’s license but no car? [Add non-owner automobile coverage](# "In 
 
 ### AKA your ‘deductible.’ It is now set to $500.
 
-A deductible is an amount that defines your participation in potential damage. It’s called a deductible, because it’s deducted from your claim payment.
+A deductible is an amount that defines your participation every time potential damage is claimed. It’s called a deductible, because it’s deducted from your claim payment.
 
 For example, if you have an approved claim that amounts to $7,000, we will end up paying you $6,500 (after we deduct the $500 ‘deductible’). It also means there’s no point in filing claims for anything less than the $500.
 
