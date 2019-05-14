@@ -56,7 +56,7 @@ We will pay you the cost to repair or replace an item with one of the same make 
 
 ### We cover stuff that you own, that’s normally kept at your home, and that was damaged by a fire, a burst pipe, theft or vandalism.
 
-### We don’t cover cash, assault weapons, stuff that’s used for your business, or things that you willingly handed over to someone else to look after.
+### We don’t cover cash, assault weapons, stuff that’s primarily used for your business, or things that you willingly handed over to someone else to look after.
 
 #### What’s not covered
 
