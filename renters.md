@@ -56,7 +56,7 @@ We will pay you the cost to repair or replace an item with one of the same make 
 
 ### We cover stuff that you own, that’s normally kept at your home, and that was damaged by a fire, a burst pipe, theft or vandalism.
 
-### We don’t cover cash, assault weapons, stuff that’s primarily used for your business, or things that you willingly handed over to someone else to look after.
+### We don’t cover cash, assault weapons, stuff that’s primarily used for your business, or paid for by your business, or things that you willingly handed over to someone else to look after.
 
 #### What’s not covered
 
@@ -70,7 +70,7 @@ We cover your stuff anywhere in the world, as long as it is normally kept at you
 
 We cover stuff you own and have in your possession. If you willingly handed your things to someone else, they’re responsible. So if your stuff was damaged during shipping, at the dry cleaners, while on loan to a friend, or never came off your flight to Hawaii - it’s not covered.
 
-We don’t cover stuff that’s usually covered by other types of insurance policies such as auto, travel, pet, or business. So damage to your car, injuries to your pet, or damage to stuff used for business such as your work laptop, professional camera gear, and so on, aren’t covered. You can add coverage for some of these [here](# "In the real doc, this will open our Live Policy editor").
+We don’t cover stuff that’s usually covered by other types of insurance policies such as auto, travel, pet, or business. So damage to your car, injuries to your pet, or damage to stuff that is paid for by your business such as your work laptop, professional camera gear, and so on, aren’t covered. You can add coverage for some of these [here](# "In the real doc, this will open our Live Policy editor").
 
 Assault weapons (as defined by the Federal Assault Weapons Ban of 1994) are not covered. Other licensed firearms are covered, as long as they are [stored securely and used responsibly](https://oag.ca.gov/firearms/tips).
 
