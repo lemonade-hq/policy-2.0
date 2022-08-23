@@ -205,7 +205,7 @@ Alternatively, if you’d like to make a complaint, please [contact us](# "In th
 
 ### When someone else caused your damage
 
-‘Subrogation’ is a fancy term for when ‘someone else is responsible for your loss.’ If we pay you for a loss under this policy, then you give us the right to pursue the responsible party to recover what we can. If we recover enough money from them, we’ll even send you back part of your deductible.
+‘Subrogation’ is a fancy term for when ‘someone else is responsible for your loss’. If we pay you for a loss under this policy, then you give us the right to pursue the responsible party to recover what we can. If we recover enough money from them, we’ll even send you back part of your deductible.
 
 We can’t promise we’ll collect, but you give us the right to try. If you get reimbursed by someone else, like your credit card company, your friend, or landlord, you agree to return the money we paid you for that loss. No double-collecting allowed!
 
